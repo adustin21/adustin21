@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @adustin21
 - 👀 I’m interested in frontend development, headless CMS and static site generators.
-- 🌱 I’m currently learning Astro.
 - 📫 How to reach me: [abigail.dustin.21@gmail.com](mailto:abigail.dustin.21@gmail.com), [telegram](https://t.me/tartaric_acid)
